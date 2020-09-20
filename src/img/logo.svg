@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="267.43921mm"
+   height="113.75486mm"
+   viewBox="0 0 267.43921 113.75486"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="530.81666"
+     inkscape:cy="162.69523"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text1063"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.799009,-43.229855)">
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;line-height:1.25;font-family:Couture;-inkscape-font-specification:Couture;stroke-width:0.264583"
+       x="52.117558"
+       y="84.991707"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="52.117558"
+         y="84.991707"
+         style="stroke-width:0.264583" /></text>
+    <g
+       aria-label="STUDENT"
+       id="text26-6"
+       style="font-size:19.7556px;line-height:1.25;font-family:Couture;-inkscape-font-specification:Couture;stroke-width:0.264583">
+      <g
+         aria-label="S"
+         id="text1063"
+         style="font-size:70.5259px;line-height:1.25;font-family:Couture;-inkscape-font-specification:Couture;stroke-width:0.24991">
+        <text
+           xml:space="preserve"
+           style="font-size:47.6761px;line-height:1.25;font-family:Couture;-inkscape-font-specification:Couture;fill:#000000;stroke-width:0.638516;"
+           x="36.515854"
+           y="78.081085"
+           id="text18-47"><tspan
+             sodipodi:role="line"
+             id="tspan16-9"
+             x="36.515854"
+             y="78.081085"
+             style="fill:#000000;stroke-width:0.638516;">ISEL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:47.6761px;line-height:1.25;font-family:Couture;-inkscape-font-specification:Couture;fill:#000000;stroke-width:0.638516;"
+           x="37.374046"
+           y="117.42609"
+           id="text22-4"><tspan
+             sodipodi:role="line"
+             id="tspan20-9"
+             x="37.374046"
+             y="117.42609"
+             style="fill:#000000;stroke-width:0.638516;">FORMULA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:47.6761px;line-height:1.25;font-family:Couture;-inkscape-font-specification:Couture;fill:#000000;stroke-width:0.638516;"
+           x="38.661301"
+           y="156.15202"
+           id="text26-8"><tspan
+             sodipodi:role="line"
+             x="38.661301"
+             y="156.15202"
+             style="fill:#000000;stroke-width:0.638516;"
+             id="tspan28-7">STUDENT</tspan></text>
+        <rect
+           style="fill:#ff7f2a;fill-rule:evenodd;stroke-width:0.569051"
+           id="rect32-71"
+           width="18.704998"
+           height="112.70287"
+           x="14.799009"
+           y="44.281841" />
+      </g>
+    </g>
+  </g>
+</svg>

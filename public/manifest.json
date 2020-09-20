@@ -1,0 +1,8 @@
+{
+  "short_name": "IFS",
+  "name": "ISEL Formula Student",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#212121",
+  "background_color": "#212121"
+}
