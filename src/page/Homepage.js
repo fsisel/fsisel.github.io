@@ -8,10 +8,10 @@ export default class Homepage extends Component {
         return (
             <div className="main-container">
                 <div className="container-opacity">
-                    <img className="logo" src={ logo } alt="ISEL Formula Student" />
+                    <img className="logo logo-font" src={ logo } alt="ISEL Formula Student" />
                     <div className="content">
                         <Button color="primary" variant="contained" href="/#/about">About us</Button>
-                        <Button color="primary" variant="contained" href="/#/sponsors">Sponsors</Button>
+                        {/* <Button color="primary" variant="contained" href="/#/sponsors">Sponsors</Button> */}
                         <Button color="primary" variant="contained" href="/#/contacts">Contacts</Button>
                     </div>
                 </div>
