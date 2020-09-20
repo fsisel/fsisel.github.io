@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13b78bd6a8b06ab1ffd9a429f1a90a57",
+    "revision": "36e0496b34129ad64ae32332fb66de38",
     "url": "/index.html"
   },
   {
-    "revision": "0d9efd6759ac761f3c50",
-    "url": "/static/css/main.5cdc3b2b.chunk.css"
+    "revision": "6f2b56205e247080c065",
+    "url": "/static/css/main.efe48e9a.chunk.css"
   },
   {
     "revision": "b5e180b255c051606197",
@@ -16,32 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ced7d1f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d9efd6759ac761f3c50",
+    "revision": "6f2b56205e247080c065",
     "url": "/static/js/main.ed4467fc.chunk.js"
   },
   {
     "revision": "e28f25817ca7d69bc206",
     "url": "/static/js/runtime-main.a9e6ef71.js"
-  },
-  {
-    "revision": "4f6867ffac9cf4b0f67657fba0f8f8fe",
-    "url": "/static/media/Couture-Bold.4f6867ff.woff2"
-  },
-  {
-    "revision": "87b852892e4c3cb6442f702571d41b14",
-    "url": "/static/media/Couture-Bold.87b85289.svg"
-  },
-  {
-    "revision": "c031e64c2b98d33f55777b8ab47c8541",
-    "url": "/static/media/Couture-Bold.c031e64c.woff"
-  },
-  {
-    "revision": "e75dfbfacd0d67339b5eca61c142f367",
-    "url": "/static/media/Couture-Bold.e75dfbfa.ttf"
-  },
-  {
-    "revision": "ff6cd92785bbdf3360dcec42f5f004e3",
-    "url": "/static/media/Couture-Bold.ff6cd927.eot"
   },
   {
     "revision": "7718513cc217a08880a0a9e4389cf357",
