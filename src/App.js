@@ -2,7 +2,7 @@ import React from 'react';
 import './App.scss';
 import Homepage from './page/Homepage';
 
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { HashRouter as Router, Switch, Route } from 'react-router-dom'
 import About from './page/About';
 import Contacts from './page/Contacts';
 
